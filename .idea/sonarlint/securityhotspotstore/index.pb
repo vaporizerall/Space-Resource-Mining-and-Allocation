@@ -13,3 +13,5 @@ P
  tests/space-resource-nft.test.ts,b/c/bcae527f7b16d8e290b550758e904a6206bb523d
 R
 "contracts/mission-integration.clar,6/1/61d8152ad9fe8e096a8d101dc0ee163606a87724
+Q
+!tests/mission-integration.test.ts,1/9/19f09591e8110b4f2e34c2e51b69bb9677ad1011
