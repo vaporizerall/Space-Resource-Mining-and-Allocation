@@ -5,6 +5,7 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+
 [contracts.space-resource-nft]
 path = 'contracts/space-resource-nft.clar'
 clarity_version = 2
