@@ -1,0 +1,19 @@
+[project]
+name = 'Space-Resource-Mining-and-Allocation'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.space-resource-nft]
+path = 'contracts/space-resource-nft.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
